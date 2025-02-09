@@ -1,1 +1,9 @@
-Once upon a time there was a king.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A Cow's Journey</title>
+</head>
+<body>
+    Once upon a time there was a king.
+</body>
+</html>
